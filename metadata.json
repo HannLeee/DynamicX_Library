@@ -1,0 +1,29 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "PackageLAN PackageLIB",
+    "description": "由Kicad官方库修改来的原理图和PCB库，方便队内使用。",
+    "description_full": "这个包Kicad官方库修改来的原理图和PCB库，方便队内使用。包含了根据国标设计的原理图和PCB库。",
+    "type": "library",
+    "author": {
+        "name": "dynamicX-circuit",
+        "contact": {
+            "organization": "https://github.com/dynamicx-circuit"
+        }
+    },
+    "license": "GPL-3.0",
+    "resources": {
+        "Github": "https://github.com/dynamicx-circuit/DynamicX_Library"
+    },
+    "tags": [
+        "models",
+        "footprint",
+        "library"
+    ],
+    "versions": [
+        {
+            "version": "0.0.1",
+            "status": "testing",
+            "kicad_version": "7.0.1"
+        }
+    ]
+}
